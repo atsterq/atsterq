@@ -1,4 +1,4 @@
-### Hello hello hi👋
+### Hi👋
 
 - 🤔 As a thoughtful developer, I possess the ability to break down complex problems into smaller, manageable tasks, and devise systematic solutions!
 - 🌱 I’m currently learning SQL, Linux and data engineering instruments.
