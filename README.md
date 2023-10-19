@@ -6,3 +6,4 @@
 - How to reach me: [telegram](https://t.me/atsterq) | [email](olegguschin.dev@gmail.com)
 - Fun fact: cats have a unique nose print, much like a human's fingerprint.
 
+![atsterq's GitHub stats](https://github-readme-stats.vercel.app/api?username=atsterq&show_icons=true&theme=transparent)
