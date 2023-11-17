@@ -1,6 +1,6 @@
 ### Hi👋
 
-- I’m currently learning [SQL](https://github.com/Data-Learn/SQL-for-beginners/blob/main/SQL-101%20Guide.md), [Linux](https://otus.ru/online/online-linux) and [data engineering instruments](https://github.com/Data-Learn/data-engineering/tree/master).
+- I’m currently learning [SQL](https://learndb.ru/courses), [Linux](https://otus.ru/online/online-linux) and [data engineering instruments](https://github.com/Data-Learn/data-engineering/tree/master).
 - I’m looking to collaborate on data engineering projects.
 - How to reach me: [telegram](https://t.me/atsterq) | [email](olegguschin.dev@gmail.com)
 
